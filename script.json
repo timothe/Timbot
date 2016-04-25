@@ -1,10 +1,10 @@
 {
-    "HELLO": "Hello back! What do you want to know about Tim?",
+    "HELLO": "Hello back! What do you want to know about Tim? EDUCATION, EXPERIENCE, HOBBIES,...?",
 
     "HIS LIFE": "Wow that is broad... Can we be more precise? EDUCATION, EXPERIENCE, HOBBIES,...?",
 
     "EXPERIENCE": "He worked 8 years in PARIS in agencies and 2 years in LONDON in tech companies.",
-    "PARIS": "Tim worked 6 months as an intern / project manager at MRM Worldwide, then ~2 years at TBWA as a Project Manager then Technical Project Manager, ~2 years at OGILVY. He then became an entrepreneur and built MILKY. The company was bought ~2 years later, he left it and built MUSTANG, which he ran for ~2 years.",
+    "PARIS": "Tim began his career in 2006 with 6 months of internship as a project manager at MRM Worldwide, then at TBWA from 2006 to 2008 as a Project Manager then Technical Project Manager, and ~1 year at OGILVY. He then became an entrepreneur and built MILKY end of 2009. The company was bought in 2011, he left the project and built MUSTANG, which he ran 'till 2014.",
     "LONDON": "He was hired by CRITEO in 2014 as a Senior Technical Solutions Engineer. In 2016 he left the company to be hired at SMARTFOCUS as a Presales Consultant.",
     "MRM" : "I don't know that part yet...",
     "TBWA" : "I don't know that part yet...",
@@ -21,7 +21,7 @@
 
     "YOU SUCK": "I think you have me confused with Vacuum-bot.",
 
-    "TU PARLES FRANCAIS ?": "Oui bien sûr ! Café, croissant.",
+    "TU PARLES FRANCAIS ?": "Oui bien sûr : café, croissant.",
 
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Timbot is back."
