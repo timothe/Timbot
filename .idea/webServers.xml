@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9567ae62-d60f-4c55-bd7e-76ea23b90b41" name="Tim OVH" url="http://www.timothe-leroy.com/timbot/">
+        <fileTransfer host="ftp.cluster017.ovh.net" port="21" rootFolder="/www/timbot/" password="dffbdf92dfdfdfd0df98dff3dfeedfd9df9fdf92dfcddfdf" username="timothelfb">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
