@@ -1,7 +1,28 @@
 {
-    "HELLO": "Hey, I'm so glad you set Timbot up!",
-    "TWITTER": "Let's tweet @timothe so he knows you're setting a bot up.",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "Hello back! What do you want to know about Tim?",
+
+    "HIS LIFE": "Wow that is broad... Can we be more precise? EDUCATION, EXPERIENCE, HOBBIES,...?",
+
+    "EXPERIENCE": "He worked 8 years in PARIS in agencies and 2 years in LONDON in tech companies.",
+    "PARIS": "Tim worked 6 months as an intern / project manager at MRM Worldwide, then ~2 years at TBWA as a Project Manager then Technical Project Manager, ~2 years at OGILVY. He then became an entrepreneur and built MILKY. The company was bought ~2 years later, he left it and built MUSTANG, which he ran for ~2 years.",
+    "LONDON": "He was hired by CRITEO in 2014 as a Senior Technical Solutions Engineer. In 2016 he left the company to be hired at SMARTFOCUS as a Presales Consultant.",
+    "MRM" : "I don't know that part yet...",
+    "TBWA" : "I don't know that part yet...",
+    "OGILVY" : "I don't know that part yet...",
+    "MILKY" : "I don't know that part yet...",
+    "MUSTANG" : "I don't know that part yet...",
+    "CRITEO" : "I don't know that part yet...",
+    "SMARTFOCUS" : "I don't know that part yet...",
+
+    "EDUCATION" : "I don't know that part yet...",
+
+    "HOBBIES" : "I don't know that part yet...",
+
+
+    "YOU SUCK": "I think you have me confused with Vacuum-bot.",
+
+    "TU PARLES FRANCAIS ?": "Oui bien sûr ! Café, croissant.",
+
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Timbot is back."
 }

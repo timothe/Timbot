@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
+            return bot.say('Hi! I\'m Timbot. I\'m not really Tim but his automated alter-ego. I\'ll guide you through this conversation with keywords you can use. They will be in capital letters but you can just use them in any case type. Say HELLO to get started :)')
                 .then(() => 'speak');
         }
     },
