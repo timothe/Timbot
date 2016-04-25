@@ -39,9 +39,9 @@ module.exports = new Script({
             }
 
             function processMessage(isSilent) {
-                //if (isSilent) {
+                if (isSilent) {
                     return Promise.resolve("speak");
-                //}
+                }
 
                 if (!_.has(scriptRules, upperText)) {
                     return bot.say(`I didn't understand that.`).then(() => 'speak');
